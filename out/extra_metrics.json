@@ -1,0 +1,23 @@
+{
+  "ball_lo": [
+    140,
+    121,
+    40
+  ],
+  "ball_hi": [
+    168,
+    230,
+    255
+  ],
+  "ball_recall": 91.4,
+  "ball_precision": 100.0,
+  "object_components_before": 318,
+  "object_components_after": 23,
+  "object_holes": 1,
+  "resize_building": {
+    "naive": 27.9,
+    "blur": 36.0,
+    "area": 37.2
+  },
+  "course_poster_match": 99.1
+}
